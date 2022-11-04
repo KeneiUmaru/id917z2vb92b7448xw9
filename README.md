@@ -56,7 +56,7 @@ getgenv().setting = {
     LockPlayersBind = Enum.KeyCode.L,
     resetPlayersBind = Enum.KeyCode.P,
 }
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Besty191/MAZI-API/main/Blox_Fruit_Silent_Aim'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KeneiUmaru/id917z2vb92b7448xw9/main/Blox_Fruit_Silent_Aim'))()
 ```
 ---- Attack No Animation ----
 ```lua
